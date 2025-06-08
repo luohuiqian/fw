@@ -1,2 +1,2 @@
 print("hello")
-pipes("deadman")
+print("apple")
