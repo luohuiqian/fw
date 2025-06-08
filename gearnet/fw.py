@@ -1,2 +1,2 @@
 print("hello")
-print("apple")
+print("666")
